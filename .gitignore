@@ -1,0 +1,4 @@
+/src/include
+/src/*.a
+/openssl-*
+/src/tlsc
